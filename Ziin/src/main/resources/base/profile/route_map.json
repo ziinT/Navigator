@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "PageOne",
+      "pageSourceFile": "src/main/ets/components/MainPage.ets",
+      "buildFunction": "PageOneBuilder",
+      "data": {
+        "description" : "this is PageOne"
+      }
+    },
+    {
+      "name": "home",
+      "pageSourceFile": "src/main/ets/components/home.ets",
+      "buildFunction": "homeBuilder",
+      "data": {
+        "description" : "this is home"
+      }
+    },
+    {
+      "name": "Login",
+      "pageSourceFile": "src/main/ets/components/Login.ets",
+      "buildFunction": "LoginBuilder",
+      "data": {
+        "description" : "this is Login"
+      }
+    },
+    {
+      "name": "file",
+      "pageSourceFile": "src/main/ets/components/file.ets",
+      "buildFunction": "fileBuilder",
+      "data": {
+        "description" : "this is file"
+      }
+    },
+    {
+      "name": "shops",
+      "pageSourceFile": "src/main/ets/components/shops.ets",
+      "buildFunction": "shopsBuilder",
+      "data": {
+        "description" : "this is shops"
+      }
+    }
+  ]
+}

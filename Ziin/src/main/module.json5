@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "Ziin",
+    "routerMap": "$profile:route_map",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+export { MainPage } from './src/main/ets/components/MainPage'
+export  {file} from './src/main/ets/components/file'
+export  {Login} from './src/main/ets/components/Login'
+export  {home} from './src/main/ets/components/home'
+export {shops} from './src/main/ets/components/shops'
